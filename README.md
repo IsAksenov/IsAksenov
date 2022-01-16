@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleaksen
+- 👋 Hi, I’m @IsAkenov
 - 👀 I’m interested in data storage and analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
